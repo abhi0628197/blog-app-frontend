@@ -1,3 +1,3 @@
-const apiBaseUrl = "https://blog-app-1-qxto.onrender.com"; // Use your backend URL when deployed
+const apiBaseUrl = "https://blog-app-3-hzcw.onrender.com";
 
 export default apiBaseUrl;
